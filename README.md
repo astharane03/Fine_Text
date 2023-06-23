@@ -1,3 +1,4 @@
+Fine Text used to convert your text from uppercase to lower case.It also gives you the option to remove extra spaces if addeed.You can copy and clear your text if you want to.It counts the number of words and characters you added and also provide you the average time that will be required to read the entered text.It also gives you the preview of your text.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
