@@ -41,7 +41,13 @@ npm i react-router-dom
 ```
 ## Preview
 <p>
-  
+  <img width="500" alt="FineText1" src="https://github.com/astharane03/Fine_Text/assets/129269783/601571d6-7697-40f4-8613-a46534d2a479">
+  <img width="500" alt="FineText2" src="https://github.com/astharane03/Fine_Text/assets/129269783/590202af-896b-4199-b753-598a487dcd0f">
+  <img width="500" alt="FineText3" src="https://github.com/astharane03/Fine_Text/assets/129269783/13bad27c-0e2f-4a35-b42c-4466bd8ed418">
+  <img width="500" alt="FineText4" src="https://github.com/astharane03/Fine_Text/assets/129269783/524542eb-23fc-4860-954a-80817af132b6">
+  <img width="500" alt="FinetText5" src="https://github.com/astharane03/Fine_Text/assets/129269783/fead15be-97a9-4bf0-bdef-dda34dbdee8e">
+  <img width="500" alt="FineText6" src="https://github.com/astharane03/Fine_Text/assets/129269783/6007c0b3-901f-4732-9321-ce845ca87b74">
+
 </p>
 
 ## Contributing
