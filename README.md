@@ -37,12 +37,7 @@ To start the app, run `npm start`. This will start the app on [http://localhost:
 
 ## Dependencies
 ```
-npm i @emotion/react @emotion/styled  @mui/material
-npm i @mui/icons-material
-npm i @mui/styles
 npm i react-router-dom
-npm i uuid
-npm i react-beautiful-dnd
 ```
 ## Preview
 <p>
