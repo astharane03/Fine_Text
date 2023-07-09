@@ -33,7 +33,7 @@ To start the app, run `npm start`. This will start the app on [http://localhost:
 - Time : Provide the user with the average time needed to read the text.
 - Preview : Gives the preview of the text.
 - Sound : User can hear the text. 
-- Theme : Provides dark as well as light theme. 
+- Theme : Provides dark as well as light theme.
 
 ## Dependencies
 ```
