@@ -1,6 +1,53 @@
 Fine Text used to convert your text from uppercase to lower case.It also gives you the option to remove extra spaces if addeed.You can copy and clear your text if you want to.It counts the number of words and characters you added and also provide you the average time that will be required to read the entered text.It also gives you the preview of your text.
 # Getting Started with Create React App
 
+# Fine Text
+
+Webpage designed using **React** used to analyse and manipulate text.
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Dependencies](#dependencies)
+- [Preview](#preview)
+- [Contributing](#contributing)
+
+## Installation
+To run the project locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/username/Google-Keep-Clone.git`
+2. Install the dependencies: `npm install`
+3. Start the development server: `npm start`
+
+## Usage
+
+To start the app, run `npm start`. This will start the app on [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Features
+
+- Add notes: Users can add new notes with a title and description.
+- Archive notes: Users can archive notes to remove them from the main view.
+- Delete notes: Users can delete notes permanently.
+- Drag and drop: Users can rearrange the order of their notes by dragging and dropping them.
+
+## Dependencies
+```
+npm i @emotion/react @emotion/styled  @mui/material
+npm i @mui/icons-material
+npm i @mui/styles
+npm i react-router-dom
+npm i uuid
+npm i react-beautiful-dnd
+```
+## Preview
+<p>
+  
+</p>
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for new features, feel free to contribute.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
