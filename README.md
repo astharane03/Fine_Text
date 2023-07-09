@@ -23,7 +23,6 @@ To run the project locally, follow these steps:
 To start the app, run `npm start`. This will start the app on [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Features
-Fine Text used to convert your text from uppercase to lower case..It also gives you the option to remove extra spaces if addeed.You can copy and clear your text if you want to.It counts the number of words and characters you added and also provide you the average time that will be required to read the entered text.It also gives you the preview of your text.
 
 - Change case: Users can convert text written in lower case to uppercase and vice versa.
 - Extra spaces: Users can remove extra spaces from the text.
